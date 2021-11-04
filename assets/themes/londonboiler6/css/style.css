@@ -8535,8 +8535,13 @@ span {
   font-size: 1.4em;
   color: #fff;
   margin-bottom: 0em;
-  padding: 10px 20px;
+  padding: 0px 20px;
   font-weight: bold;
+}
+/*  */
+.header_top .tel span {
+  font-size: 1.2em;
+  color: #fff;
 }
 
 .header_top .cta {
@@ -8616,8 +8621,8 @@ span {
 }
 
 .banner .swimming_badges img {
-  max-height: 80px;
-  padding: 10px;
+  max-height: 88px;
+  margin: 0rem 0.6rem;
 }
 
 @media (max-width: 991.98px) {
